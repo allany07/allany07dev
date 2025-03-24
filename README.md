@@ -1,1 +1,9 @@
-# allany07dev
+# Hi there
+'allany07dev/allany07dev* is a __special__ repository because its 'README.md' (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
+=🔥 I'm currently working on ..•
+- 💻 I'm currently learning ...
+- ❤️I'm looking to collaborate on •••
+- 🤣I'm Looking for help with ...
+- ⭐Ask me about ...
