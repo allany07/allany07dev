@@ -1,9 +1,13 @@
-# Hi there
-'allany07dev/allany07dev* is a __special__ repository because its 'README.md' (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+🧪 Projeto Front-End para Iniciantes
+Este é um projeto que estou desenvolvendo para aprender e praticar os fundamentos do desenvolvimento front-end . A ideia é dividir o aprendizado em módulos , explorando alguns conceitos como HTML, CSS, JavaScript e boas práticas.
 
-=🔥 I'm currently working on ..•
-- 💻 I'm currently learning ...
-- ❤️I'm looking to collaborate on •••
-- 🤣I'm Looking for help with ...
-- ⭐Ask me about ...
+📚 Objetivos
+Aprender os conceitos básicos de front-end
+
+Praticar com projetos simples e modulares
+
+Evoluir gradualmente até o Módulo 5
+
+🚀 Em progresso...
+Este repositório vai ser atualizado conforme eu avanço no aprendizado. Fique à vontade para acompanhar ou deixar sugestões!
+
