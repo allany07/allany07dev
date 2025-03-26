@@ -1,4 +1,4 @@
-#🧪 Projeto Front-End para Iniciantes
+🧪 *Projeto Front-End para Iniciantes*
 
 Este é um projeto que estou desenvolvendo para aprender e praticar os fundamentos do desenvolvimento front-end . A ideia é dividir o aprendizado em módulos , explorando alguns conceitos como HTML, CSS, JavaScript e boas práticas.
 
